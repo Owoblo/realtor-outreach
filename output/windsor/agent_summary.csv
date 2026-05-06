@@ -1,0 +1,136 @@
+rank,agent_name,first_name,brokerage,phone,listings,volume,median_price,top_city,percentile,brk_pct,brk_agents
+1,"Goran Todorovic , Broker Of Record",Goran,Remax Care Realty Brokerage,519-979-9949,64,40202585,499000.0,Windsor,0.1,98.5,2
+2,"Brady Thrasher, Sales Person",Brady,Remax Preferred Realty Ltd. - 586 Brokerage,519-819-5965,42,21451999,355000.0,Chatham Kent,0.3,53.8,10
+3,"Andrew J. Smith, Broker",Andrew,Deerbrook Realty Inc. Brokerage,519-564-2639,26,21607400,799900.0,Lasalle,0.4,15.0,82
+4,"Jason Laframboise, Asa, Broker",Jason,Remax Capital Diamond Realty Brokerage,519-796-9177,17,19388240,1079900.0,Amherstburg,0.6,12.1,47
+5,"Katherine  Rankin, Broker",Katherine,Royal Lepage Peifer Realty Brokerage Brokerage,226-542-2964,16,8511700,544900.0,Chatham Kent,0.7,18.8,23
+6,"Gianluca Rauti, Sales Person",Gianluca,Remo Valente Real Estate (1990) Limited Brokerage,519-996-5507,16,17277500,1099900.0,Lakeshore,0.9,37.2,18
+7,"Jeff Godreau, Sales Person",Jeff,Royal Lepage Peifer Realty Brokerage Brokerage,519-365-4852,16,10239499,736500.0,Chatham Kent,1.0,18.8,23
+8,"John D'alimonte, Sales Person",John,Remax Preferred Realty Ltd. - 586 Brokerage,519-796-8073,15,11655452,699900.0,Amherstburg,1.2,19.2,10
+9,"Krista  Mall, Sales Person",Krista,Royal Lepage Peifer Realty (Dresden) Brokerage,519-365-7462,11,4849599,439000.0,Chatham Kent,1.3,100.0,1
+10,"Brad Bondy, Broker",Brad,Remax Preferred Realty Ltd. - 586 Brokerage,519-919-1187,11,6792938,489000.0,Amherstburg,1.4,14.1,10
+11,"Albert Kantarjian, Broker Of Record",Albert,Remax Capital Diamond Realty Brokerage,519-816-4222,10,6371799,609900.0,Lakeshore,1.6,7.1,47
+12,"Angela Goulet, Sales Person",Angela,Remax Preferred Realty Ltd. - 585 Brokerage,226-975-2643,10,10285200,944450.0,Lakeshore,1.7,15.4,28
+13,"Doris Lapico, Sales Person",Doris,Remax Capital Diamond Realty Brokerage,519-796-0174,9,10049999,1100000.0,Lasalle,1.9,6.4,47
+14,"Harinder Ghotra, Broker",Harinder,Request Realty Inc. Brokerage,226-246-9101,9,7971900,499000.0,Windsor,2.0,90.0,2
+15,"Jill  Howe, Broker",Jill,Kw Signature Brokerage,519-365-5455,9,6834991,624999.0,Chatham Kent,2.2,14.3,22
+16,"Mario Leonardo, Sales Person",Mario,Remax Capital Diamond Realty Brokerage,226-280-3499,9,4823188,589900.0,Windsor,2.3,6.4,47
+17,"Nick Montaleone, Broker",Nick,Deerbrook Realty Inc. Brokerage,519-990-7779,9,4828200,374900.0,Lakeshore,2.5,5.2,82
+18,"Nadia Khalaf, Broker",Nadia,Remax Capital Diamond Realty Brokerage,519-903-7212,9,4413274,438999.0,Windsor,2.6,6.4,47
+19,"Mark A. Eugeni, Sales Person",Mark,Manor Windsor Realty Ltd. Brokerage,519-250-8800,8,6095300,769900.0,Lasalle,2.7,18.6,20
+20,"John Bouffard, Sales Person",John,Pinnacle Plus Realty Ltd. Brokerage,519-903-4663,8,4146128,385894.0,Windsor,2.9,22.2,18
+21,"Chantel Wasyluk, Sales Person",Chantel,Remax Capital Diamond Realty Brokerage,519-564-4804,8,8258228,894394.0,Amherstburg,3.0,5.7,47
+22,"Camille Elters, Sales Person",Camille,H. Featherstone Realty Inc. Brokerage,519-796-2453,8,7777900,611950.0,Kingsville,3.2,50.0,5
+23,"Dan Gemus, Broker Of Record",Dan,The Dan Gemus Real Estate Team Ltd. Brokerage,519-566-5565,8,6366700,672400.0,Amherstburg,3.3,100.0,1
+24,"Tasha Slater, Sales Person",Tasha,Jump Realty Inc. Brokerage,519-796-3102,8,5718300,683850.0,Kingsville,3.5,7.8,53
+25,"Jackie  Patterson, Broker",Jackie,Gagner & Associates Excel Realty Services Inc. (Blenheim) Brokerage,519-436-9030,7,2933603,319900.0,Chatham Kent,3.6,77.8,3
+26,"Martin Shkreli, Sales Person",Martin,Deerbrook Realty Inc. Brokerage,519-566-7704,7,8908300,1099900.0,Lasalle,3.8,4.0,82
+27,"Maggie Chen, Crb, Fri, Broker Of Record",Maggie,Lc Platinum Realty Inc. Brokerage,519-919-2398,7,5055700,649000.0,Windsor,3.9,12.1,29
+28,"Cassandra Balint, Broker",Cassandra,Realty One Group Iconic Brokerage Brokerage,519-257-9961,7,6149300,899900.0,Lakeshore,4.1,20.6,12
+29,"Pauline Lanoue, Sales Person",Pauline,Deerbrook Realty Inc. Brokerage,519-796-5701,7,5422880,779900.0,Chatham Kent,4.2,4.0,82
+30,"Robert Schussler, Sales Person",Robert,Royal Lepage Binder Real Estate Brokerage,519-818-8932,7,6639600,449900.0,Windsor,4.3,5.6,52
+31,"Cristina Gazo, Sales Person",Cristina,Realty One Group Iconic Brokerage Brokerage,519-567-3031,7,5374300,899900.0,Lasalle,4.5,20.6,12
+32,"Jake Klassen, Sales Person",Jake,Century 21 Local Home Team Realty Inc. Brokerage,519-819-9658,7,3774400,399900.0,Kingsville,4.6,10.9,27
+33,"Darin Schiller, Sales Person",Darin,Kw Signature Brokerage,519-818-7292,7,3369577,425000.0,Windsor,4.8,11.1,22
+34,"Danielle  Simard, Sales Person",Danielle,Re/Max Preferred Realty Ltd. Brokerage,519-476-1976,7,3918700,395000.0,Chatham Kent,4.9,31.8,10
+35,"Jessica Spiteri, Sales Person",Jessica,Jump Realty Inc. Brokerage,519-919-5867,6,2734500,404900.0,Windsor,5.1,5.9,53
+36,"Toufic Hassoun, Broker",Toufic,Real Broker Ontario Ltd Brokerage,519-991-6667,6,4751000,662000.0,Windsor,5.2,17.1,18
+37,"Aditya Soma, Broker",Aditya,Real Broker Ontario Ltd Brokerage,647-774-7588,6,4992400,577250.0,Windsor,5.4,17.1,18
+38,"David Smith, Sales Person",David,Royal Lepage Peifer Realty Brokerage Brokerage,519-350-1615,6,2549400,454900.0,Chatham Kent,5.5,7.1,23
+39,"Razvan Mag, Broker",Razvan,Lc Platinum Realty Inc. Brokerage,519-817-7746,6,4909598,689900.0,Amherstburg,5.6,10.3,29
+40,"Steven Jarrouge, Sales Person",Steven,Manor Windsor Realty Ltd. Brokerage,519-990-5959,6,2074499,334900.0,Windsor,5.8,14.0,20
+41,"Joe Conlon, Broker",Joe,Royal Lepage Binder Real Estate Brokerage,226-345-0836,6,4314400,677400.0,Windsor,5.9,4.8,52
+42,"Zoey Huang, Sales Person",Zoey,Lc Platinum Realty Inc. Brokerage,226-787-6098,6,3545800,574000.0,Windsor,6.1,10.3,29
+43,"Julianne Green, Broker",Julianne,Buckingham Realty (Windsor) Ltd. Brokerage,519-567-6929,6,8298500,459900.0,Tecumseh,6.2,17.6,15
+44,"Darren  Hart, Sales Person",Darren,Royal Lepage Peifer Realty Brokerage Brokerage,226-627-8580,6,3305800,547450.0,Chatham Kent,6.4,7.1,23
+45,"Diane Jraiche, Sales Person",Diane,Royal Lepage Binder Real Estate Brokerage,519-819-8733,6,3586700,594450.0,Leamington,6.5,4.8,52
+46,"Matt Biggley, Ba, Bed, Sales Person",Matt,Remax Capital Diamond Realty Brokerage,519-890-2030,6,8737799,1371500.0,Kingsville,6.7,4.3,47
+47,"Shannon Matheson, Sales Person",Shannon,Jump Realty Inc. Brokerage,519-329-7291,6,3117600,474450.0,Leamington,6.8,5.9,53
+48,"Chris Bishop, Sales Person",Chris,Royal Lepage Binder Real Estate Brokerage,519-982-2474,6,10503698,1686950.0,Kingsville,6.9,4.8,52
+49,"Christopher Toldo, Sales Person",Christopher,Remax Capital Diamond Realty Brokerage,519-890-3690,6,3834400,599900.0,Lakeshore,7.1,4.3,47
+50,"Bill  Myers, Broker",Bill,Advanced Realty Solutions Inc. Brokerage,519-365-2094,6,3462599,588900.0,Chatham Kent,7.2,37.5,8
+51,"Carson Warrener, Sales Person",Carson,Royal Lepage Peifer Realty Brokerage Brokerage,519-809-2856,5,4009900,799000.0,Chatham Kent,7.4,5.9,23
+52,"Clarke Gallie, Sales Person",Clarke,Jump Realty Inc. Brokerage,226-345-2999,5,2622000,499000.0,Windsor,7.5,4.9,53
+53,"Tim P. Campbell, Broker Of Record",Tim,Century 21 Teams & Associates Ltd. Brokerage,519-259-9999,5,5226380,699000.0,Lakeshore,7.7,62.5,3
+54,"Joe Fallea, Sales Person",Joe,Kw Signature Brokerage,519-818-9757,5,4155000,769000.0,Lasalle,7.8,7.9,22
+55,"Joey Kloostra, Sales Person",Joey,Latitude Realty Inc. Brokerage,519-365-2143,5,2278900,499000.0,Chatham Kent,8.0,100.0,1
+56,"Vince, Broker",Vince,Remax Preferred Realty Ltd. - 588 Brokerage,519-322-7653,5,4617000,844000.0,Kingsville,8.1,55.6,5
+57,"Darien Slater, Sales Person",Darien,Century 21 Local Home Team Realty Inc. Brokerage,519-817-2117,5,2666998,369999.0,Windsor,8.2,7.8,27
+58,"Cassandra Duquette, Sales Person",Cassandra,Deerbrook Realty Inc. Brokerage,519-566-3094,5,2798600,599000.0,Chatham Kent,8.4,2.9,82
+59,"Michelle Branco, Sales Person",Michelle,Royal Lepage Binder Real Estate Brokerage,519-796-4398,5,3088699,679900.0,Chatham Kent,8.5,4.0,52
+60,"Hanan Nigma, Broker",Hanan,Jump Realty Inc. Brokerage,226-280-1969,5,2079599,429900.0,Windsor,8.7,4.9,53
+61,"Patrick Pinsonneault, Broker",Patrick,Royal Lepage Peifer Realty Brokerage Brokerage,519-360-0141,5,2394400,538000.0,Chatham Kent,8.8,5.9,23
+62,"Paul Germanese, Sales Person",Paul,Remax Capital Diamond Realty Brokerage,519-818-2948,5,3349500,649900.0,Windsor,9.0,3.6,47
+63,"Laurie Arruda, Sales Person",Laurie,One Percent Realty Ltd Brokerage,519-919-4773,5,2040120,459444.0,Chatham Kent,9.1,100.0,1
+64,"John Isshak, Broker Of Record",John,Pinnacle Plus Realty Ltd. Brokerage,519-791-5922,5,7738900,964900.0,Lakeshore,9.3,13.9,18
+65,"Suhail Mohamed, Sales Person",Suhail,Manor Windsor Realty Ltd. Brokerage,519-890-6000,5,1642899,419900.0,Windsor,9.4,11.6,20
+66,"Adam Cusson, Sales Person",Adam,Royal Lepage Binder Real Estate Brokerage,226-350-8898,4,2853001,717106.5,Lakeshore,9.6,3.2,52
+67,"Layla Di Meo, Sales Person",Layla,Royal Lepage Binder Real Estate Inc - 633 Brokerage,519-566-2412,4,3279600,714900.0,Lakeshore,9.7,100.0,1
+68,"Tina Roy, Broker",Tina,Remax Preferred Realty Ltd. - 585 Brokerage,519-999-8462,4,3443800,897450.0,Lakeshore,9.8,6.2,28
+69,"Matt Mcshane, Broker",Matt,Remo Valente Real Estate (1990) Limited Brokerage,519-991-4393,4,2984600,757400.0,Lasalle,10.0,9.3,18
+70,"Mark Bloomfield, Broker",Mark,Royal Lepage Binder Real Estate Brokerage,519-981-5221,4,11559900,1380000.0,Windsor,10.1,3.2,52
+71,"Jason Brown, Sales Person",Jason,Remo Valente Real Estate (1990) Limited Brokerage,519-999-3688,4,2426600,523400.0,Kingsville,10.3,9.3,18
+72,"Ashley Sweet, Sales Person",Ashley,Remax Capital Diamond Realty Brokerage,519-980-1427,4,2256999,559000.0,Windsor,10.4,2.9,47
+73,"Asmar Gorges, Sales Person",Asmar,Remax Preferred Realty Ltd. - 585 Brokerage,519-982-2613,4,3627000,914500.0,Lasalle,10.6,6.2,28
+74,"Shibu George Eipe, Abr, Mba, Sales Person",Shibu,Royal Lepage Binder Real Estate Brokerage,519-980-7790,4,3159400,579800.0,Windsor,10.7,3.2,52
+75,"Lisa Neufeld, Sales Person",Lisa,Century 21 Local Home Team Realty Inc. Brokerage,519-324-7501,4,2099800,487450.0,Leamington,10.9,6.2,27
+76,"Lisa  Van Boven, Sales Person",Lisa,Royal Lepage Peifer Realty Brokerage Brokerage,519-564-2013,4,1944700,424900.0,Chatham Kent,11.0,4.7,23
+77,"John Woelk, Sales Person",John,Century 21 Local Home Team Realty Inc. Brokerage,519-791-2868,4,3376900,839000.0,Leamington,11.1,6.2,27
+78,"Krista Klundert, Sales Person",Krista,Remax Preferred Realty Ltd. - 585 Brokerage,519-980-3540,4,2459600,632400.0,Windsor,11.3,6.2,28
+79,"Mo El Kahil, Sales Person",Mo,Jump Realty Inc. Brokerage,226-787-0111,4,2096997,549499.0,Windsor,11.4,3.9,53
+80,"Milena Simsic, Sales Person",Milena,Exp Realty Brokerage,226-909-1557,4,3343800,652400.0,Windsor,11.6,22.2,11
+81,"Brandon Bergen, Sales Person",Brandon,H. Featherstone Realty Inc. Brokerage,226-280-4218,4,1979000,492500.0,Lakeshore,11.7,25.0,5
+82,"Mo Elkadri, Sales Person",Mo,Jump Realty Inc. Brokerage,226-340-3090,4,2016000,454000.0,Windsor,11.9,3.9,53
+83,"Fatima Sobh, Sales Person",Fatima,Deerbrook Realty Inc. Brokerage,519-991-3532,4,6469900,1500000.0,Windsor,12.0,2.3,82
+84,"Shan Hasan, Broker Of Record",Shan,Kw Signature Brokerage,226-788-9966,4,3239600,799900.0,Windsor,12.2,6.3,22
+85,"Edward (Ed)  O'brien, Sales Person",Edward,O'brien Robertson Realty Inc. Brokerage Brokerage,519-355-4666,4,1949800,462450.0,Chatham Kent,12.3,66.7,2
+86,Paige  Handsor,Paige,Match Realty Inc. Brokerage,519-401-7687,4,8378000,1865000.0,Chatham Kent,12.4,50.0,3
+87,"Brian Lanoue, Sales Person",Brian,Remax Preferred Realty Ltd. - 585 Brokerage,519-257-8235,4,3812000,769000.0,Lakeshore,12.6,6.2,28
+88,"Eric Fitzgerald, Sales Person",Eric,Royal Lepage Peifer Realty Brokerage Brokerage,519-436-4865,4,1649699,417449.5,Chatham Kent,12.7,4.7,23
+89,"Neil Jones, Asa, Broker",Neil,Remax Capital Diamond Realty Brokerage,519-980-7126,4,1399800,354950.0,Windsor,12.9,2.9,47
+90,"Gary Mcleod, Sales Person",Gary,Buckingham Realty (Windsor) Ltd. Brokerage,519-566-3693,4,3048700,874900.0,Lakeshore,13.0,11.8,15
+91,"Randy Standel, Sales Person",Randy,Century 21 Local Home Team Realty Inc. Brokerage,519-562-4970,4,2338800,474950.0,Windsor,13.2,6.2,27
+92,"Eddie Azar, Broker",Eddie,Pinnacle Plus Realty Ltd. Brokerage,519-796-7642,4,2358800,454900.0,Windsor,13.3,11.1,18
+93,"Rick Lescanec, Broker Of Record",Rick,Deerbrook Plus Realty Inc Brokerage,519-972-1600,4,2689588,624900.0,Windsor,13.5,100.0,1
+94,"Rene Thrasher, Sales Person",Rene,Remax Preferred Realty Ltd. - 586 Brokerage,519-819-3442,4,3608999,1014999.5,Amherstburg,13.6,5.1,10
+95,"Tyler Knight, Sales Person",Tyler,Jump Realty Inc. Brokerage,519-890-7287,4,2034900,492450.0,Kingsville,13.7,3.9,53
+97,"Teresa Macri, Sales Person",Teresa,Remax Preferred Realty Ltd. - 585 Brokerage,519-965-1793,4,1589699,399900.0,Windsor,14.0,6.2,28
+98,"Sylvia Biederman, Sales Person",Sylvia,Deerbrook Realty Inc. Brokerage,519-796-0523,4,1976999,474000.0,Windsor,14.2,2.3,82
+100,"Zi Haifa, Sales Person",Zi,Century 21 Local Home Team Realty Inc. Brokerage,519-816-4488,4,2609600,619900.0,Kingsville,14.5,6.2,27
+101,"Vince, Sales Person",Vince,Lc Platinum Realty Inc. Brokerage,519-919-4886,3,1169799,349999.0,Windsor,14.6,5.2,29
+102,"Yolla Abraham, Broker",Yolla,Deerbrook Realty Inc. Brokerage,519-816-7449,3,1789700,494900.0,Kingsville,14.8,1.7,82
+103,"Andrea  O'rourke, Broker",Andrea,O'rourke Real Estate Inc. Brokerage Brokerage,519-365-3651,3,1054700,389900.0,Chatham Kent,14.9,100.0,1
+104,"Sarah Mitchell, Sales Person",Sarah,Royal Lepage Binder Real Estate Brokerage,519-564-9632,3,2208900,699500.0,Windsor,15.1,2.4,52
+105,"Ali Bin Bashir Arain, Sales Person",Ali,Lc Platinum Realty Inc. Brokerage,519-992-2019,3,1453000,395000.0,Windsor,15.2,5.2,29
+106,"Kate Saleh, Sales Person",Kate,Manor Windsor Realty Ltd. Brokerage,519-890-9026,3,2168800,599900.0,Windsor,15.3,7.0,20
+108,"Kartik Kalia, Sales Person",Kartik,Lc Platinum Realty Inc. Brokerage,226-260-2600,3,2985000,450000.0,Windsor,15.6,5.2,29
+109,"T.J. Nehmetallah, Sales Person",T.J,Royal Lepage Binder Real Estate Brokerage,519-990-0240,3,3569700,949900.0,Kingsville,15.8,2.4,52
+110,"Ryan Giroux, Sales Person",Ryan,Kw Signature Brokerage,519-945-6964,3,2224800,775000.0,Windsor,15.9,4.8,22
+111,"Cristina Poljak, Sales Person",Cristina,Realty One Group Iconic Brokerage Brokerage,519-796-9897,3,3364800,1090000.0,Amherstburg,16.1,8.8,12
+112,"Daniel (Dan) Gagner, Broker Of Record",Daniel,Gagner & Associates Excel Realty Services Inc. Brokerage Brokerage,519-401-1333,3,3333800,1199000.0,Chatham Kent,16.2,42.9,5
+113,"Daniel Bechard, Sales Person",Daniel,Remax Preferred Realty Ltd. - 585 Brokerage,519-919-9900,3,3969800,599900.0,Windsor,16.4,4.6,28
+114,"Scott Hodgins, Sales Person",Scott,Royal Lepage Binder Real Estate Brokerage,519-818-4272,3,1643800,519900.0,Windsor,16.5,2.4,52
+115,"Scott Innocente, Sales Person",Scott,Remax Capital Diamond Realty Brokerage,519-567-1987,3,1288899,389999.0,Windsor,16.6,2.1,47
+116,"Alex Armstrong, Sales Person",Alex,Royal Lepage Binder Real Estate Brokerage,226-347-2909,3,2429550,799850.0,Kingsville,16.8,2.4,52
+117,"Scott  Poulin, Sales Person",Scott,Royal Lepage Peifer Realty Brokerage Brokerage,519-350-5320,3,1148998,449000.0,Chatham Kent,16.9,3.5,23
+118,"Rachel Hu, Sales Person",Rachel,Nu Stream Realty (Toronto) Inc Brokerage,226-246-7868,3,1777000,599000.0,Windsor,17.1,50.0,3
+119,"Dean Kral, Sales Person",Dean,Buckingham Realty (Windsor) Ltd. Brokerage,519-984-3660,3,1572900,424900.0,Tecumseh,17.2,8.8,15
+120,"Sara Laporte, Sales Person",Sara,Kw Signature Brokerage,519-817-8700,3,817300,234900.0,Windsor,17.4,4.8,22
+121,"Ricky Morrison, Sales Person",Ricky,Jump Realty Inc. Brokerage,519-562-9961,3,1894800,729900.0,Tecumseh,17.5,2.9,53
+122,"David Mady, Sales Person",David,Royal Lepage Binder Real Estate Brokerage,226-350-1110,3,1769700,559900.0,Lasalle,17.7,2.4,52
+123,"Richard Strain, Sales Person",Richard,Realty Connects Inc. Brokerage,519-358-5601,3,1188800,369900.0,Chatham Kent,17.8,50.0,4
+124,"Dante Butera, Sales Person",Dante,Century 21 Local Home Team Realty Inc. Brokerage,519-300-4354,3,9109799,1949900.0,Kingsville,17.9,4.7,27
+125,"Sheldon Harrison, Sales Person",Sheldon,Jump Realty Inc. Brokerage,519-300-2338,3,1179700,379900.0,Windsor,18.1,2.9,53
+126,"Deborah Koutoula, Sales Person",Deborah,Remax Preferred Realty Ltd. - 585 Brokerage,519-919-9797,3,1544700,339900.0,Windsor,18.2,4.6,28
+127,"Elliot Wilton, Sales Person",Elliot,Royal Lepage Peifer Realty(Blen) Brokerage Brokerage,519-358-8755,3,1279700,399900.0,Chatham Kent,18.4,75.0,2
+128,"Norman Mickle, Broker",Norman,Buckingham Realty (Windsor) Ltd. Brokerage,519-816-7189,3,1324700,499900.0,Windsor,18.5,8.8,15
+129,"Eric Passa, Broker",Eric,Key Solutions Realty Ltd. Brokerage,519-995-7592,3,1479800,499900.0,Windsor,18.7,23.1,6
+130,"Bryan Jaskolka, Salesperson",Bryan,CMI REAL ESTATE INC,888-465-1432,3,1784800,479900.0,Windsor,18.8,100.0,1
+131,"Caitlynn O'neil, Sales Person",Caitlynn,Royal Lepage Binder Real Estate Brokerage,519-992-8717,3,1804700,569900.0,Windsor,19.0,2.4,52
+132,"Candace Shank, Sales Person",Candace,Pinnacle Plus Realty Ltd. Brokerage,226-347-7709,3,2323899,459999.0,Lasalle,19.1,8.3,18
+133,"Bridget  Blonde, Sales Person",Bridget,Nest Realty Inc. Brokerage,519-365-0568,3,1343800,434900.0,Chatham Kent,19.2,17.6,10
+134,"Rocco Urbano, Sales Person",Rocco,Deerbrook Realty Inc. Brokerage,519-977-3890,3,1573700,448900.0,Lasalle,19.4,1.7,82
+135,"Gerald Sykes, Broker",Gerald,Royal Lepage Binder Real Estate Brokerage,519-564-9800,3,2588800,789900.0,Windsor,19.5,2.4,52
+136,"Gregory Moore, Sales Person",Gregory,Deerbrook Realty Inc. Brokerage,519-817-2918,3,1479997,499999.0,Windsor,19.7,1.7,82
+137,"Elton Fero, Sales Person",Elton,Kw Signature Brokerage,519-566-0794,3,2249700,749900.0,Windsor,19.8,4.8,22
+138,"Michelle Royka, Sales Person",Michelle,Century 21 Local Home Team Realty Inc. Brokerage,519-996-9767,3,2600900,735900.0,Kingsville,20.0,4.7,27
