@@ -317,8 +317,8 @@ def draw_header(c: canvas.Canvas):
     c.drawString(ML, y - (offset + 11), EMAIL)
 
     rule_y = y - 70
-    c.setStrokeColor(NAVY)
-    c.setLineWidth(0.5)
+    c.setStrokeColor(GOLD)
+    c.setLineWidth(0.8)
     c.line(ML, rule_y, ML + TW, rule_y)
 
     date_y = rule_y - 16
@@ -360,15 +360,9 @@ def main():
     top20        = adf[adf["top20"]].copy()
     tier1        = top20[top20["listings"] >= 10].copy()
 
-    BROKER_CSV = OUT / "envelopes" / "brokerage_addresses.csv"
-    if BROKER_CSV.exists():
-        bdf = pd.read_csv(BROKER_CSV).fillna("")
-        no_addr = set(bdf[bdf["street_address"].str.strip() == ""]["brokerage"])
-        before = len(top20)
-        top20 = top20[~top20["brokerage"].isin(no_addr)].copy()
-        tier1 = tier1[~tier1["brokerage"].isin(no_addr)].copy()
-        if before - len(top20):
-            print(f"  Removed {before - len(top20)} agents (no brokerage address)")
+    # Clear old PDFs so no stale Saturn Star files remain
+    for old in LDIR.glob("*.pdf"):
+        old.unlink()
 
     print(f"  Total agents  : {total_agents}")
     print(f"  Top 20%       : {len(top20)} agents")
