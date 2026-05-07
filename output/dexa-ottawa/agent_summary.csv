@@ -1,0 +1,64 @@
+rank,agent_name,first_name,brokerage,phone,listings,volume,median_price,top_city,percentile,brk_pct,brk_agents
+6,Mathieu Arseneault,Mathieu,EXP AGENCE IMMOBILIÈRE - Gatineau,819-664-0629,15,10831400.0,489900.0,Gatineau (Buckingham),0.8,93.8,2
+7,Paul Rushforth,Paul,PAUL RUSHFORTH REAL ESTATE INC.,613-240-8551,15,9435125.0,514900.0,Ottawa,1.0,68.2,2
+9,Maggie Tessier,Maggie,EXIT REALTY MATRIX,613-447-4707,14,11989427.0,819900.0,Russell,1.3,56.0,6
+10,Alexandre Longpré,Alexandre,Guilbault services immobiliers inc.,819-664-5898,13,6570913.0,530463.0,L'Ange-Gardien,1.4,54.2,6
+11,Manuel Silva,Manuel,RE/MAX VISION - Hull,819-210-0102,11,15390690.0,599900.0,Gatineau (Hull),1.5,33.3,9
+16,Vyncent Ledoux,Vyncent,RE/MAX VISION - Hull,819-593-1768,10,6059658.0,611379.0,L'Ange-Gardien,2.2,30.3,9
+17,Raphaël Chauvin,Raphaël,RE/MAX DIRECT INC.,819-930-0347,8,1469200.0,189900.0,Cantley,2.4,16.3,27
+22,Louis Lo Mascolo,Louis,COLDWELL BANKER SARAZEN REALTY,613-558-3333,7,11411199.0,1280000.0,Ottawa,3.1,35.0,11
+26,Angela (Angie) White,Angela,PAUL RUSHFORTH REAL ESTATE INC.,613-266-9127,7,3345705.0,454900.0,Clarence-Rockland,3.6,31.8,2
+33,Martin W. Simard,Martin,Royal LePage Vallée de l'Outaouais,819-209-6278,6,2891995.0,467450.0,L'Ange-Gardien,4.6,14.6,15
+34,Maria Dycha,Maria,Royal LePage Vallée de l'Outaouais - Aylmer,819-209-2289,6,4168877.0,502499.5,La Pêche,4.8,42.9,5
+35,Marnie Bennett,Marnie,BENNETT PROPERTY SHOP REALTY,613-233-8606,6,4138600.0,624900.0,Ottawa,4.9,100.0,1
+36,Marty Waite,Marty,RE/MAX DIRECT INC.,819-665-0033,6,1975400.0,192900.0,Pontiac,5.0,12.2,27
+37,Justin Wrigley,Justin,EXIT REALTY MATRIX,613-880-1607,5,4949700.0,1049900.0,Ottawa,5.2,20.0,6
+38,Martin Simard,Martin,Royal LePage Vallée de l'Outaouais FM,819-246-1000,5,2584900.0,385000.0,L'Ange-Gardien,5.3,100.0,1
+40,Karine Séguin,Karine,Royal LePage Vallée de l'Outaouais,819-661-2123,5,2629500.0,529900.0,Cantley,5.6,12.2,15
+41,Samuel Lafleur,Samuel,VIA CAPITALE DIAMANT,819-955-1369,5,3574400.0,669800.0,Cantley,5.7,33.3,8
+42,Jeffrey Usher,Jeffrey,GRAPE VINE REALTY INC.,613-291-3272,5,3477600.0,601900.0,Ottawa,5.9,71.4,2
+44,Jacques Durocher,Jacques,Royal LePage Vallée de l'Outaouais,819-281-0330,5,1829000.0,400000.0,Gatineau (Buckingham),6.2,12.2,15
+50,Patrick Lynott,Patrick,Century 21 Macintyre inc.,613-447-5585,5,2506000.0,399000.0,Chelsea,7.0,62.5,3
+51,Eric Longpre,Eric,RE/MAX ABSOLUTE REALTY INC.,613-296-5788,4,4599895.0,417497.5,Ottawa,7.1,36.4,5
+54,Maz Karimjee,Maz,ROYAL LEPAGE PERFORMANCE REALTY,613-799-7253,4,1744700.0,334950.0,Ottawa,7.6,8.9,29
+64,Joanna Jasinska,Joanna,RE/MAX VISION - Hull,819-351-5151,4,1358700.0,349900.0,#302,9.0,12.1,9
+66,Kristine Johnson,Kristine,RE/MAX ABSOLUTE REALTY INC.,613-262-2742,4,6849800.0,1537400.0,Ottawa,9.2,36.4,5
+69,Jason Harding,Jason,Royal LePage Vallée de l'Outaouais,819-213-3343,4,1754900.0,414950.0,Gatineau (Masson-Angers),9.7,9.8,15
+70,Hamid Riahi,Hamid,POWER MARKETING REAL ESTATE INC.,613-252-4797,4,2856000.0,504000.0,Ottawa,9.8,50.0,3
+72,Marc Pageau,Marc,AGENCE IMMOBILIÈRE ROYAL,819-246-4636,4,3359600.0,784900.0,Gatineau (Gatineau),10.1,100.0,1
+79,Eli Skaff,Eli,AVENUE NORTH REALTY INC.,613-262-0212,3,3138800.0,999900.0,Ottawa,11.0,30.0,7
+80,Kerrilyn Vriend,Kerrilyn,EXIT REALTY MATRIX,613-850-0794,3,2354998.0,729999.0,Ottawa,11.2,12.0,6
+82,Helen Tang,Helen,Ottawa True North Realty,343-700-2725,3,5978000.0,2080000.0,Ottawa,11.5,75.0,2
+83,Jacques J. Rochon,Jacques,RE/MAX DELTA REALTY,613-229-6832,3,2714800.0,649900.0,Clarence-Rockland,11.6,42.9,4
+87,Guy Vézeau,Guy,Guilbault services immobiliers inc.,819-790-8282,3,845000.0,360000.0,Thurso,12.2,12.5,6
+88,Alessandro Cardinali,Alessandro,RE/MAX DIRECT INC.,819-664-4980,3,1849700.0,699900.0,Gatineau (Masson-Angers),12.3,6.1,27
+89,Josh West,Josh,ROYAL LEPAGE INTEGRITY REALTY,613-801-5684,3,1227000.0,399000.0,Ottawa,12.4,10.7,21
+91,Frédérick Lanouette,Frédérick,Guilbault services immobiliers inc.,819-431-9634,3,719700.0,229900.0,Gatineau (Buckingham),12.7,12.5,6
+92,Jessika Simpson,Jessika,RE/MAX DIRECT INC. - Gatineau,819-230-0865,3,2333000.0,469000.0,Val-des-Monts,12.9,10.7,18
+95,Jun Yu,Jun,COLDWELL BANKER SARAZEN REALTY,613-850-8888,3,1892000.0,450000.0,Ottawa,13.3,15.0,11
+96,Salim Marion,Salim,RE/MAX DIRECT INC.,819-665-4169,3,2693900.0,899900.0,Pontiac,13.4,6.1,27
+98,Niraj Singhal,Niraj,COLDWELL BANKER FIRST OTTAWA REALTY,613-513-5658,3,3879700.0,1529900.0,Ottawa,13.7,21.4,11
+100,Philip LeMay,Philip,Royal LePage Vallée de l'Outaouais - Aylmer,819-923-7777,3,1969500.0,525000.0,Gatineau (Aylmer),14.0,21.4,5
+101,Mike Scerbo,Mike,FIDACITY REALTY,613-222-9915,3,877700.0,247900.0,Ottawa,14.1,100.0,1
+102,Claire Gauthier,Claire,Royal LePage Vallée de l'Outaouais - Aylmer,613-292-8267,3,1128800.0,399900.0,Gatineau (Aylmer),14.3,21.4,5
+104,Nancy Larocque,Nancy,RE/MAX DIRECT INC. - Gatineau,819-743-5722,3,1491000.0,426000.0,Thurso,14.5,10.7,18
+106,Daniel Cayer,Daniel,Royal LePage Vallée de l'Outaouais,819-661-4784,3,2523900.0,775000.0,Lochaber-Partie-Ouest,14.8,7.3,15
+108,Daniel Carrière,Daniel,RE/MAX VISION - Buckingham,819-329-2636,3,1122900.0,399000.0,Gatineau (Masson-Angers),15.1,50.0,4
+110,Mathieu Fournier,Mathieu,ROYAL LEPAGE PERFORMANCE REALTY,613-614-1853,3,5914500.0,1750000.0,The Nation,15.4,6.7,29
+111,Mitch Gauzas,Mitch,ROYAL LEPAGE INTEGRITY REALTY,613-302-5752,3,3225000.0,850000.0,Ottawa,15.5,10.7,21
+113,Steve Waters,Steve,Royal LePage Vallée de l'Outaouais,613-889-2580,3,3454900.0,355000.0,Gatineau (Buckingham),15.8,7.3,15
+117,Reba Wilson,Reba,MARILYN WILSON DREAM PROPERTIES INC.,613-668-5888,3,6785000.0,2280000.0,Ottawa,16.4,37.5,4
+118,Robin Duguay,Robin,Guilbault services immobiliers inc.,819-665-2190,3,1083200.0,354600.0,Lochaber-Partie-Ouest,16.5,12.5,6
+119,Saadiq Hussain,Saadiq,POWER MARKETING REAL ESTATE INC.,613-762-9786,3,2829700.0,929900.0,Ottawa,16.6,37.5,3
+121,Vanessa Lapierre,Vanessa,Royal LePage Vallée de l'Outaouais,819-360-7778,3,6514700.0,2999900.0,Cantley,16.9,7.3,15
+126,Stephen M. Lynott,Stephen,Century 21 Macintyre inc.,613-859-5585,2,1567000.0,783500.0,Chelsea,17.6,25.0,3
+128,Tieseer Alzubi,Tieseer,INNOVATION REALTY LTD.,613-276-5883,2,1639788.0,819894.0,Ottawa,17.9,12.5,13
+131,Daniel Ducharme,Daniel,RE/MAX DIRECT INC.,819-665-8650,2,574900.0,287450.0,Cantley,18.3,4.1,27
+132,Michel Desnoyers,Michel,RE/MAX DELTA REALTY,613-223-8771,2,639800.0,319900.0,Clarence-Rockland,18.5,28.6,4
+133,Danny Dawson,Danny,Royal LePage Vallée de l'Outaouais,613-204-0515,2,2149800.0,1074900.0,Chelsea,18.6,4.9,15
+134,Michael Simon,Michael,CLV REALTY CORPORATION,613-769-3864,2,2850000.0,1425000.0,Ottawa,18.7,100.0,1
+136,Nathalie Delisle,Nathalie,RE/MAX DIRECT INC.,819-930-4211,2,1363900.0,681950.0,Cantley,19.0,4.1,27
+137,Cindy Whitehead,Cindy,COLDWELL BANKER FIRST OTTAWA REALTY,613-552-0581,2,1674800.0,837400.0,Ottawa,19.2,14.3,11
+138,Connor McBride,Connor,MARILYN WILSON DREAM PROPERTIES INC.,613-808-9895,2,3190000.0,1595000.0,Ottawa,19.3,25.0,4
+139,Curtis Fillier,Curtis,INNOVATION REALTY LTD.,613-859-7355,2,3285800.0,1642900.0,Ottawa,19.4,12.5,13
+142,Miguel Levesque,Miguel,ONE PERCENT REALTY LTD.,613-800-6069,2,1849800.0,924900.0,Ottawa,19.9,50.0,3
