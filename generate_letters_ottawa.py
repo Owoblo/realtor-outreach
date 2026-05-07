@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Saturn Star Movers — Realtor Partnership Letter Generator
+DEXA Movers — Realtor Partnership Letter Generator
 Ottawa-Gatineau Region
 
 Reads ottawa-realtors.csv, ranks all agents by listing count,
@@ -27,7 +27,7 @@ from reportlab.platypus import Frame, Paragraph, Spacer
 # ── Paths ─────────────────────────────────────────────────────────────────────
 BASE  = Path(__file__).parent
 DATA  = BASE / "ottawa-realtors.csv"
-LOGO  = BASE / "logo.jpg"
+LOGO  = BASE / "dexa-logo.png"
 OUT   = BASE / "output" / "ottawa"
 LDIR  = OUT / "letters"
 EDIR  = OUT / "envelopes"
@@ -36,23 +36,23 @@ for d in [LDIR, EDIR]:
     d.mkdir(parents=True, exist_ok=True)
 
 # ── Brand ─────────────────────────────────────────────────────────────────────
-COMPANY     = "Saturn Star Movers"
-ADDR1       = "Ottawa, ON"
-ADDR2       = ""
-PHONE       = "(226) 773-2993"
-EMAIL       = "business@starmovers.ca"
-PARTNER_URL = "starmovers.ca/partners"
-SENDER      = "John Owolabi"
-SENDER_TTL  = "Founder, Saturn Star Movers"
+COMPANY     = "DEXA Movers"
+ADDR1       = "4108-1100 Canadian Shield Avenue"
+ADDR2       = "Kanata, Ottawa, ON K2K 0K9"
+PHONE       = "(613) 519-3236"
+EMAIL       = "hello@dexamovers.ca"
+PARTNER_URL = "dexamovers.ca/partners"
+SENDER      = "The Team at DEXA Movers"
+SENDER_TTL  = "DEXA Movers — Ottawa"
 LETTER_DATE = "May 2026"
 REGION      = "Ottawa"
 CITIES_STR  = "Ottawa, Nepean, Kanata, Barrhaven, Orleans, and the surrounding area"
 
 # ── Colours ───────────────────────────────────────────────────────────────────
-NAVY  = HexColor("#1a2744")
-GOLD  = HexColor("#f5a623")
-GRAY  = HexColor("#666666")
-BLACK = HexColor("#111111")
+NAVY  = HexColor("#253042")   # Dexa slate
+GOLD  = HexColor("#b85718")   # Dexa copper
+GRAY  = HexColor("#6e6459")   # Dexa stone
+BLACK = HexColor("#19160f")   # Dexa ink
 
 # ── Page geometry ─────────────────────────────────────────────────────────────
 PW, PH   = LETTER_SIZE
@@ -245,11 +245,12 @@ def build_story(a: dict, total_agents: int) -> list:
         S["body"]))
 
     story.append(Paragraph(
-        "We handle moves all across Ottawa and the surrounding area — local, "
-        "long-distance, full-service packing, wrapping, and furniture assembly. "
+        "DEXA Movers is an Ottawa-based moving company built around one idea: "
+        "every move your clients make should reflect the care you put into finding "
+        "their home. We handle local and long-distance moves across Ottawa — "
+        "full-service packing, wrapping, and furniture assembly. "
         "Every job carries <b>$2M in liability coverage</b>. "
-        "I wanted to reach out because I think there's a real opportunity for us to "
-        "work together and take care of your clients.",
+        "I'm reaching out because I think we'd be a strong fit for your clients.",
         S["body"]))
 
     story.append(Paragraph("Here's what I'd offer your clients, exclusively through you:", S["body"]))

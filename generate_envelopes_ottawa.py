@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Saturn Star Movers — Envelope Generator
+DEXA Movers — Envelope Generator
 Ottawa-Gatineau Region
 
 Generates print-ready #10 envelope PDFs for top-20% realtors.
@@ -26,7 +26,7 @@ from reportlab.pdfgen import canvas
 BASE       = Path(__file__).parent
 OUT        = BASE / "output" / "ottawa"
 EDIR       = OUT / "envelopes"
-LOGO       = BASE / "logo.jpg"
+LOGO       = BASE / "dexa-logo.png"
 STAMP      = BASE / "canada-post-stamp.jpeg"
 AGENT_CSV  = OUT / "agent_summary.csv"
 BROKER_CSV = OUT / "envelopes" / "brokerage_addresses.csv"
@@ -34,14 +34,14 @@ BROKER_CSV = OUT / "envelopes" / "brokerage_addresses.csv"
 EDIR.mkdir(parents=True, exist_ok=True)
 
 # ── Brand ─────────────────────────────────────────────────────────────────────
-COMPANY   = "Saturn Star Movers"
-RET_LINE1 = "Ottawa, ON"
-RET_LINE2 = ""
-PHONE     = "(226) 773-2993"
+COMPANY   = "Dexa Services"
+RET_LINE1 = "4108-1100 Canadian Shield Avenue"
+RET_LINE2 = "Kanata, Ottawa, ON K2K 0K9"
+PHONE     = "(613) 519-3236"
 
-NAVY  = HexColor("#1a2744")
-GRAY  = HexColor("#666666")
-BLACK = HexColor("#111111")
+NAVY  = HexColor("#253042")   # Dexa slate
+GRAY  = HexColor("#6e6459")   # Dexa stone
+BLACK = HexColor("#19160f")   # Dexa ink
 
 ENV_W     = 9.5  * inch
 ENV_H     = 4.125 * inch
